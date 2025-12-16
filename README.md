@@ -24,7 +24,7 @@ I’m a data analyst with a strong interest in data analysis, visualisation, and
 ### 📊 Projects  
 Here are some of my projects (more coming soon):  
 - 🔗 **Walmart Sales Analysis** –(https://github.com/ogorjoy90-svg/Walmart-weekly-sales )Exploratory data analysis and visualisation using Power BI  
-- 🔗 **E-commerce Data Analysis** – (https://github.com/ogorjoy90-svg/Ecommerce)Analysing customer behaviour and purchase patterns  
+- 🔗 **E-commerce Data Analysis** – (https://github.com/ogorjoy90-svg/Ecommerce) Analysing customer behaviour and purchase patterns  
 - 🔗 **SQL Practice Projects** – Writing queries for data exploration and insights  
 
 ---
